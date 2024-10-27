@@ -15,4 +15,4 @@ import { PaymentProviderFactory } from './payment.provider';
   controllers:[PaymentController],
   exports: [PaymentService], 
 })
-export class PaymentModule {}
+export class OcpPaymentModule {}
